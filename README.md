@@ -30,10 +30,13 @@ Add the following inside .env file
 `DB_URL=mongodb://localhost/parks`
 
 Start server:
+
+
 Run the following command to start the MongoDB:
- $ sudo mongod
+
+    $ sudo mongod
  
-Run the following command to start the server.
+Run the following command to start the server:
 
     $ npm start
 
