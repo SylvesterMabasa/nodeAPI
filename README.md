@@ -1,4 +1,5 @@
-# parks
+# Node API 
+An example api for parks using node, express and mongo
 
 Requirements:
 -------------
